@@ -9,6 +9,7 @@ _Palabras en cursiva_
 
 ![textot](https://st2.depositphotos.com/1397350/6144/i/950/depositphotos_61449997-stock-photo-broken-laptop-computer.jpg "Imagen texto 1")
 
+Emoji: :smile:
 > [!WARNING]
 > Alerta
 
